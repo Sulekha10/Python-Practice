@@ -1,3 +1,7 @@
+# determining the ticket price based on age and whether the person is a student.
+# ticket pricing based on age and student status
+
+
 age = int(input("Enter your age : "))
 is_student = input("Are you a student? (yes/no) : ").lower()
 
